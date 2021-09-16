@@ -1,0 +1,32 @@
+body {
+  background-image: url(./sky.jpg);
+  background-size: cover;
+}
+
+div {
+  width: 650px;
+  height: 340px;
+  margin-top: 10px;
+  border: 2px solid black;
+  background-image: url(./avocado.jpg);
+  background-color: white;
+  background-repeat: repeat-y;
+  overflow: scroll;
+}
+
+.satu{
+    color: blue;
+    text-align: right;
+    font-weight: bold;
+}
+
+.dua{
+    color: green;
+    text-align: left;
+}
+
+.tiga{
+    color: red;
+    text-align: right;
+    margin-right: 20px;
+}
